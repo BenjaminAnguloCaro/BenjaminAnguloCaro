@@ -1,5 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Benjamín Angulo</a></h1>
+<h3 align="center">An Electrical Engineering Student at Universidad de Chile</h3>
 
+
+- 📫 How to reach me **benjamin.angulo@ug.uchile.cl**
 <!--
 **BenjaminAnguloCaro/BenjaminAnguloCaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
